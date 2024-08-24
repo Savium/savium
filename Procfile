@@ -1,1 +1,1 @@
-gunicorn safeum:app
+gunicorn app:app
